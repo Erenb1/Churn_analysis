@@ -83,14 +83,6 @@ Contains customer demographics, account info, services signed up for, and churn 
 
 ---
 
-## 🧠 Future Work
-
-- Add SHAP analysis or feature importance plots
-- Build a Flask web app for live churn prediction
-- Export the model to `.pkl` and deploy to the cloud (AWS, Render, etc.)
-
----
-
 ## 👤 About Me
 
 This is my **first end-to-end machine learning project**!  
