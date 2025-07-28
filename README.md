@@ -89,7 +89,7 @@ This is my **first end-to-end machine learning project**!
 I'm a student passionate about machine learning and data science, and I'm actively looking for **internship opportunities** where I can grow and contribute.
 
 Let's connect on [LinkedIn]
-(https://www.linkedin.com/](https://www.linkedin.com/in/erenali-balc%C4%B1karde%C5%9Fler-5b7440357/)
+(https://www.linkedin.com/in/erenali-balc%C4%B1karde%C5%9Fler-5b7440357/)
 
 ---
 
